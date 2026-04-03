@@ -4,6 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
 A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+![image alt]https://github.com/faryalfatima896/faryal_154/blob/98a04b6e4b9d2b3d5200d220d17c966ebf623c8f/aaaaa.jpeg
 
 ## Why This Starter Exists
 
